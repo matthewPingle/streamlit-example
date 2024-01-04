@@ -1,2 +1,2 @@
-numby
 streamlit
+numpy
